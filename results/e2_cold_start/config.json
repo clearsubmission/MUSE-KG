@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "epochs": 20,
+  "embedding_dim": 64,
+  "anchor_count": 20,
+  "training_seconds": 7.013416514731944,
+  "training_objective": "BPR",
+  "evaluation": "full training catalog plus held-out split",
+  "metadata": "user-generated artist tags; diagnostic only",
+  "source_model": "MF and weighted_embedding"
+}

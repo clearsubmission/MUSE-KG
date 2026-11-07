@@ -1,0 +1,3 @@
+split,interactions,artists,users,mean_interactions_per_artist,median_interactions_per_artist,max_interactions_per_artist,mean_positives_per_user,median_positives_per_user,tagged_artists,mean_tags_per_artist,median_tags_per_artist,artists_with_anchor,mean_max_anchor_similarity,median_max_anchor_similarity,p90_max_anchor_similarity
+validation,6487,282,1782,23.00354609929078,11.0,397,3.6402918069584738,3.0,281,20.386524822695037,16.0,281,0.5096830252027045,0.47807476133369725,0.7631241372025619
+test,7627,282,1798,27.04609929078014,10.5,522,4.241935483870968,4.0,279,22.418439716312058,14.5,278,0.5144839157164377,0.5005267439966729,0.7762341005138905

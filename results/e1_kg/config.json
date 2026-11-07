@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "best_weight": 0.3,
+  "selection_metric": "validation NDCG@20",
+  "protocol": "known-item full-catalog ranking",
+  "kg_source": "training-associated artist tags",
+  "graph_edges": 49312,
+  "tag_features": 7662
+}

@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "dataset": "Last.fm HetRec 2011",
+  "protocol": "known-item, full-catalog ranking",
+  "candidate_items": 17169,
+  "training_users": 1883,
+  "knn_neighbors": 100,
+  "als_factors": 64,
+  "als_iterations": 30,
+  "als_regularization": 0.05,
+  "als_confidence": "1 + log1p(play_count)"
+}

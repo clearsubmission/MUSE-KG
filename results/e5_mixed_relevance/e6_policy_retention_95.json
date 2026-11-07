@@ -1,0 +1,50 @@
+{
+  "acoustic": {
+    "method": "Uniform",
+    "strength": 0.02,
+    "validation_cold_recall": 0.1237849136461197,
+    "validation_warm_retention": 0.9579037803640034
+  },
+  "ambient": {
+    "method": "TagSpecific",
+    "strength": 0.1,
+    "validation_cold_recall": 0.1070032786002455,
+    "validation_warm_retention": 0.9587006959497982
+  },
+  "electronic": {
+    "method": "Uniform",
+    "strength": 0.05,
+    "validation_cold_recall": 0.1801402687641406,
+    "validation_warm_retention": 0.9527908189697066
+  },
+  "indie": {
+    "method": "Uniform",
+    "strength": 0.03,
+    "validation_cold_recall": 0.1495768591687861,
+    "validation_warm_retention": 0.9555945076019546
+  },
+  "jazz": {
+    "method": "Uniform",
+    "strength": 0.02,
+    "validation_cold_recall": 0.1181540943153812,
+    "validation_warm_retention": 0.9584438549679
+  },
+  "metal": {
+    "method": "Uniform",
+    "strength": 0.02,
+    "validation_cold_recall": 0.1034697892575423,
+    "validation_warm_retention": 0.9529803774941328
+  },
+  "pop": {
+    "method": "Uniform",
+    "strength": 0.04,
+    "validation_cold_recall": 0.1672424616444694,
+    "validation_warm_retention": 0.9530870855299912
+  },
+  "rock": {
+    "method": "TagSpecific",
+    "strength": 0.05,
+    "validation_cold_recall": 0.1719851289896797,
+    "validation_warm_retention": 0.9555979949120892
+  }
+}

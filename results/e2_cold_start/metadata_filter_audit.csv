@@ -1,0 +1,3 @@
+split,cold_artists,tag_pairs_before,tag_pairs_after,tag_pairs_removed,artists_tagged_before,artists_tagged_after,artists_lost_all_tags,mean_tags_before,mean_tags_after,median_tags_before,median_tags_after
+validation,282,5749,3692,2057,281,278,3,20.386524822695037,13.092198581560284,16.0,10.0
+test,282,6322,3606,2716,279,278,1,22.418439716312058,12.787234042553191,14.5,10.0
